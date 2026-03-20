@@ -1,0 +1,6 @@
+experiment_name: week01_setup
+model_name: gpt2
+prompt: "When John and Mary went to the store, John gave a bottle to"
+seed: 42
+target_hook: "blocks.5.hook_resid_post"
+output_path: "experiments/week01_setup/results.json"
