@@ -1,0 +1,26 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.14.0
+
+# Mechanistic Interpretability Tools
+transformer-lens>=0.2.0
+# NOTE: ecco depends on old scikit-learn wheels that are not compatible with Python 3.12+
+ecco>=0.1.0; python_version < "3.12"
+captum>=0.6.0
+
+# Utilities
+jupyter>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+tqdm>=4.65.0
+einops>=0.6.0
+jaxtyping>=0.2.0
+
+# Optional but useful
+accelerate>=0.20.0
+peft>=0.6.0
+bitsandbytes>=0.41.0
