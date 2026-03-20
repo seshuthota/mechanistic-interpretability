@@ -1,0 +1,14 @@
+{
+  "model_name": "gpt2",
+  "seed": 42,
+  "prompt": "When John and Mary went to the store, John gave a bottle to",
+  "hook_name": "blocks.5.hook_resid_post",
+  "shape": [
+    1,
+    15,
+    768
+  ],
+  "resid_mean": -4.238552619995062e-08,
+  "resid_std": 28.347623825073242,
+  "resid_l2": 3042.449951171875
+}
