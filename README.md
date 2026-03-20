@@ -33,6 +33,11 @@ For immediate execution, use:
 - `docs/notebook-checklist.md` - Quality gate for notebook completion
 - `templates/experiment-template.md` - Standard experiment notes template
 
+For pre-paper foundations, start with:
+- `docs/foundations/00_required-concepts.md` - Quick walkthrough of must-know MI concepts
+- `docs/foundations/01_concept-mastery-checklist.md` - Readiness checklist before paper deep-dives
+- `notebooks/00_concepts_quickstart.ipynb` - Lightweight practical concept notebook
+
 ## Citation
 
 If you use this work, please cite the original sources referenced in the roadmap.
